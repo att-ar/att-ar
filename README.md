@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @att-ar
 - 👀 I’m interested in Green Chemistry and reversing the effects of global warming.
-- 🌱 I’m currently learning Chemical Engineering at the University of Waterloo Ontario.
+- 🌱 I’m currently studying Chemical Engineering at the University of Waterloo Ontario.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
