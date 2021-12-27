@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @att-ar
+- 👋 Hi, I’m Attar
 - 👀 I’m interested in Green Chemistry and reversing the effects of global warming.
-     I am also interested in the fields of biochemistry and chemical/biological engineering.
+     I am also interested in the fields of biochemistry/mechanobiology and chemical/biological engineering.
 - 🌱 I’m currently studying Chemical Engineering at the University of Waterloo Ontario.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me: attar.aziz@uwaterloo.ca
 
 <!---
 att-ar/att-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
