@@ -6,7 +6,7 @@
 - 🔋 I'm also currently assisting research on Aluminum-Air and Lithium-Ion batteries, which involve machine learning and data analysis.
 - 📫 How to reach me: attar.aziz@uwaterloo.ca
 ---
-🧰 Toolbox
+### 🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" alt="Python Logo" width="50" height="50"/>
 
