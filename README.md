@@ -2,7 +2,7 @@
 ---
 - 👀 I’m interested in Green Chemistry and reversing the effects of global warming.
      I am also interested in the fields of biochemistry/mechanobiology and chemical/biological engineering.
-- 🌱 I’m currently studying Chemical Engineering at the University of Waterloo Ontario.
+- <img src="https://github.com/att-ar/att-ar/blob/main/university-of-waterloo-1-logo-png-transparent.png" alt="UW" width="18" height="20"/> I’m currently studying Chemical Engineering at the University of Waterloo Ontario.
 - 🔋 I'm also currently assisting research on Aluminum-Air and Lithium-Ion batteries, which involve machine learning and data analysis.
 - 📫 How to reach me: attar.aziz@uwaterloo.ca
 ---
