@@ -3,6 +3,7 @@
  - 👀 I’m interested in Deep Learning algorithms applied to batteries, and battery management systems.
  - :school: I’m currently studying Chemical Engineering at the University of Waterloo, Ontario.
  - 🔋 I'm also currently assisting research on Aluminum-Air and Li-Ion batteries involving ML/DNNs and data analysis/science.
+ - :toolbox: I am very comfortable with Python and can relearn R if needed.
  - 📫 How to reach me: attar.aziz@uwaterloo.ca or via [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
 ### Toolbox
