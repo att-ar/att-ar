@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Attar
 
  - 🔋 I’m interested in Deep Learning algorithms applied to batteries, and battery management systems.
- - 👀 I would also like to expand on my data science skills via opportunities to combine traditional data science with deep learning
- - :school: I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario.
+ - 👀 I would like to expand data science skills by combining traditional data science with deep learning.
+ - :school: I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario with a 3.98/4 GPA.
  - 📫 How to reach me: attar.aziz@uwaterloo.ca or via [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
 ### Toolbox
