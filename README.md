@@ -5,7 +5,7 @@
  - :school: I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario.
  - :volleyball: My personal hobbies revolve around sports (mainly volleyball).
  - :book: I also enjoy reading fiction novels, especially fantasy fiction.
- - 📫 How to reach me: attar.aziz@uwaterloo.ca or via [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
 ### Toolbox
 |Python|Pandas|TensorFlow|PyTorch|
