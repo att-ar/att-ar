@@ -1,11 +1,12 @@
-### 👋 Hi, I’m Attar
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Data+Science+and+AI.)](https://git.io/typing-svg)
 
- - 🔋 I’m interested in Deep Learning algorithms applied to batteries, and battery management systems.
+ - 🔋 I’m interested in Deep Learning and Data Science in any application improving social and environmental well-being.
+ - 🔧 I'm currently working on implementing machine learning and data pipeline in AWS. I'm also working on physics-informed neural networks. 
  - 👀 I would like to expand my data science skills by combining traditional data science with deep learning.
  - :school: I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario.
  - :volleyball: My personal hobbies revolve around sports (mainly volleyball).
  - :book: I also enjoy reading fiction novels, especially fantasy fiction.
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
+ - 📫 How to reach me: [Email](attar.aziz@uwaterloo.ca), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
 ### Toolbox
 |Python|Pandas|TensorFlow|PyTorch|
