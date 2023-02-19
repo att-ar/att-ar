@@ -4,6 +4,7 @@
  - 🔧 I'm currently working on implementing machine learning and data pipeline in AWS. I'm also working on physics-informed neural networks. 
  - 👀 I would like to expand my data science skills by combining traditional data science with deep learning.
  - :school: I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario.
+   - First in Class Engineering Scholarship for Year One of Chemical Engineering.
  - :volleyball: My personal hobbies revolve around sports (mainly volleyball).
  - :book: I also enjoy reading fiction novels, especially fantasy fiction.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
