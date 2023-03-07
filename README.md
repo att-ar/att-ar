@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Data+Science+and+working+on+AI.)](https://git.io/typing-svg)
 
  - 🔋 I’m interested in Deep Learning and Data Science in any application improving social and environmental well-being.
+ - 👔 I'm currently working as a Python and Backend Developer co-op student at Eon Media
  - 💻 Ongoing personal projects:
    - Implementing a machine learning and data pipeline in AWS.
    - A physics-informed neural network for time-series forecasting. 
