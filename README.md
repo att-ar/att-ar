@@ -1,15 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Data+Science+and+working+on+AI.)](https://git.io/typing-svg)
 
- - 🔋 I’m interested in Deep Learning and Data Science in any application improving social and environmental well-being.
+ - 👀 I’m interested in Machine Learning and Data Science in applications improving social and environmental well-being.
  - 💻 Ongoing personal projects:
    - Implementing a machine learning and data pipeline in AWS.
    - A physics-informed neural network for time-series forecasting. 
    - the Full Stack Open course from the University of Helsinki.
- - 👀 I would like to expand my data science skills by combining traditional data science with deep learning.
  - 🏫 I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario, Canada.
    - First in Class Engineering Scholarship for Year One of Chemical Engineering.
  - 🏐 My personal hobbies revolve around sports (mainly volleyball).
- - 📘 I also enjoy reading fiction novels, especially fantasy fiction.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
 ### Toolbox
