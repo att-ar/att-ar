@@ -14,8 +14,8 @@
 |Python|Pandas|TensorFlow|PyTorch|
 |:-:|:-:|:-:|:-:|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="35" height="35"/>|
-|JavaScript|React.js|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" width="35"/>|
+|JavaScript|React.js|Express.js|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" width="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="35" width="35"/>|
 |SQLite|PostgreSQL|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="35" height="35"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" height="35"/>|
 |AWS|
