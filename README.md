@@ -2,9 +2,9 @@
 
  - 👀 I’m interested in Machine Learning and Data Science in applications improving social and environmental well-being.
  - 💻 Ongoing personal projects:
+   - the Full Stack Open course from the University of Helsinki.
    - Implementing a machine learning and data pipeline in AWS.
    - A physics-informed neural network for time-series forecasting. 
-   - the Full Stack Open course from the University of Helsinki.
  - 🏫 I am a student in the Department of Chemical Engineering at the University of Waterloo, Ontario, Canada.
    - First in Class Engineering Scholarship for Year One of Chemical Engineering.
  - 🏐 My personal hobbies revolve around sports (mainly volleyball).
