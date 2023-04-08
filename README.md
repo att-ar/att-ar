@@ -42,7 +42,7 @@
       
       Me->>Toolbox: GET AWS
       activate Toolbox
-      Toolbox-->>Me: S3, boto3, IAM
+      Toolbox-->>Me: S3, boto3, LAMBDA
       deactivate Toolbox
 ```
 
