@@ -19,33 +19,6 @@
 
 [![Attar's GitHub stats](https://github-readme-stats-att-ar.vercel.app/api?username=att-ar&count_private=True&show_icons=True&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-
-```mermaid
-  sequenceDiagram
-      participant Me
-      participant Toolbox
-      
-      Me->>Toolbox: GET Python
-      activate Toolbox
-      Toolbox-->>Me: Pandas, PyTorch, TensorFlow
-      deactivate Toolbox
-      
-      Me->>Toolbox: GET JavaScript
-      activate Toolbox
-      Toolbox-->>Me: React.js, Express.js, Jest
-      deactivate Toolbox
-      
-      Me->>Toolbox: GET SQL
-      activate Toolbox
-      Toolbox-->>Me: SQLite, PostgreSQL
-      deactivate Toolbox
-      
-      Me->>Toolbox: GET AWS
-      activate Toolbox
-      Toolbox-->>Me: S3, boto3, LAMBDA
-      deactivate Toolbox
-```
-
 <!---
 att-ar/att-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
