@@ -17,6 +17,9 @@
 |AWS|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35" height="35"/>|
 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=att-ar&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![Attar's GitHub stats](https://github-readme-stats-att-ar.vercel.app/api?username=att-ar&count_private=True&show_icons=True&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
