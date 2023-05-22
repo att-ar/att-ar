@@ -2,7 +2,8 @@
 
  - 👀 I’m interested in Machine Learning, Data Science and Full Stack development.
  - 💻 Ongoing personal projects:
-   - the Full Stack Open course from the University of Helsinki.
+   - the Full Stack Open course from the University of Helsinki (on pause due to School Term).
+   - MyMusicList, a web app inspired by MyAnimeList but for Music.
  - 🏫 Engineering student at the University of Waterloo, Ontario, Canada.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
