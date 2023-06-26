@@ -21,7 +21,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=att-ar&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
  -->
-[![Attar's GitHub stats](https://github-readme-stats-att-ar.vercel.app/api?username=att-ar&count_private=True&show_icons=True&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Attar's GitHub stats](https://github-readme-stats-omega-black.vercel.app/api?username=att-ar&count_private=True&show_icons=True&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 att-ar/att-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
