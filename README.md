@@ -2,8 +2,7 @@
 
  - 👀 I’m interested in Machine Learning, Data Science and Full Stack development.
  - 💻 Ongoing personal projects:
-   - the Full Stack Open course from the University of Helsinki (on pause due to School Term).
-   - MyMusicList, a web app inspired by MyAnimeList but for Music.
+   - MyMusicList, a web app inspired by MyAnimeList but for Music. (Paused due to school)
  - 🏫 Engineering student at the University of Waterloo, Ontario, Canada.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
@@ -13,6 +12,8 @@
 |<img src="https://icongr.am/simple/python.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/pandas.svg?size=42&color=aaaaaa&colored=false" alt="Pandas Logo"/>|<img src="https://icongr.am/simple/tensorflow.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/pytorch.svg?size=42&color=aaaaaa&colored=false"/>|
 |TypeScript|React|Redux|Express|Apollo GraphQL|
 |<img src="https://icongr.am/simple/typescript.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/react.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/redux.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/devicon/express-original.svg?size=42&color=aaaaaa"/>|<img src="https://icongr.am/simple/apollographql.svg?size=42&color=aaaaaa&colored=false"/>|
+|Golang|GraphQL|
+|<img src="https://icongr.am/devicon/go-plain.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/graphql.svg?size=42&color=aaaaaa&colored=false"/>|
 |SQLite|PostgreSQL|MongoDB|
 |<img src="https://icongr.am/simple/sqlite.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/postgresql.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/mongodb.svg?size=42&color=aaaaaa&colored=false"/>|
 |AWS|
