@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Data+Science+and+working+on+AI.)](https://git.io/typing-svg)
 
  - 👀 I’m interested in Machine Learning, Data Science and Full Stack development.
- - 💻 Ongoing personal projects:
-   - MyMusicList, a web app inspired by MyAnimeList but for Music. (Paused due to school)
  - 🏫 Engineering student at the University of Waterloo, Ontario, Canada.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
