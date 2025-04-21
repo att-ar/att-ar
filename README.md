@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Data+Science+and+working+on+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=C3080000&width=600&lines=Hi!+I'm+Attar;I+really+enjoy+Infra+and+Distributed+Systems.)](https://git.io/typing-svg)
 
- - 👀 I’m interested in Machine Learning, Data Science and Full Stack development.
+ - 👀 I’m interested in Infra, Distributed Systems, and making the world a better place!
  - 🏫 Engineering student at the University of Waterloo, Ontario, Canada.
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
@@ -8,10 +8,12 @@
 |Python|Polars|Pandas|TensorFlow|PyTorch|
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://icongr.am/simple/python.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dimmed-medium.png" height=32 width=54/>|<img src="https://icongr.am/simple/pandas.svg?size=42&color=aaaaaa&colored=false" alt="Pandas Logo"/>|<img src="https://icongr.am/simple/tensorflow.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/pytorch.svg?size=42&color=aaaaaa&colored=false"/>|
-|TypeScript|React|Redux|Express|Apollo GraphQL|
-|<img src="https://icongr.am/simple/typescript.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/react.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/redux.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/devicon/express-original.svg?size=42&color=aaaaaa"/>|<img src="https://icongr.am/simple/apollographql.svg?size=42&color=aaaaaa&colored=false"/>|
 |Golang|GraphQL|
 |<img src="https://icongr.am/devicon/go-plain.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/graphql.svg?size=42&color=aaaaaa&colored=false"/>|
+|C++|Haskell|
+|<img src="https://icongr.am/devicon/cplusplus-line.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/haskell.svg?size=44&color=aaaaaa&colored=false"/>|
+|TypeScript|React|Redux|Express|Apollo GraphQL|
+|<img src="https://icongr.am/simple/typescript.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/react.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/redux.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/devicon/express-original.svg?size=42&color=aaaaaa"/>|<img src="https://icongr.am/simple/apollographql.svg?size=42&color=aaaaaa&colored=false"/>|
 |SQLite|PostgreSQL|MongoDB|Neo4j|
 |<img src="https://icongr.am/simple/sqlite.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/postgresql.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/mongodb.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/neo4j.svg?size=42&color=aaaaaa&colored=false"/>|
 |AWS|Docker|
