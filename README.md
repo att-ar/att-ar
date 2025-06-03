@@ -2,8 +2,13 @@
 
  - 👀 I’m interested in Infra, Distributed Systems, and making the world a better place!
  - 🏫 Engineering student at the University of Waterloo, Ontario, Canada.
+ - 💻 Experience:
+   - Software Engineering Intern - [Bitgo](https://www.bitgo.com)
+   - Data Engineering Intern - [Tesla](https://www.tesla.com)
+   - Deep Learning Research Assistant - [University of Waterloo](https://uwaterloo.ca/engineering/)
  - 📫 How to reach me: [Email](mailto:attar.aziz@uwaterloo.ca?subject=[GitHub]%20Inquiry), [LinkedIn](https://www.linkedin.com/in/attar-aziz-che/)
 
+<!--
 ### Toolbox
 |Python|Polars|Pandas|TensorFlow|PyTorch|
 |:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +25,7 @@
 |<img src="https://icongr.am/simple/amazonaws.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/docker.svg?size=42&color=aaaaaa&colored=false"/>|
 |Apache Airflow|Apache Spark|Apache Kafka|Apache Zookeeper|
 |<img src="https://icongr.am/simple/apacheairflow.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/apachespark.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/apachekafka.svg?size=42&color=aaaaaa&colored=false"/>|<img src="https://icongr.am/simple/apache.svg?size=42&color=aaaaaa&colored=false"/>|
-
+-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=att-ar&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
  -->
 [![Attar's GitHub stats](https://github-readme-stats-omega-black.vercel.app/api?username=att-ar&count_private=True&show_icons=True&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
